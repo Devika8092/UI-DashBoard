@@ -17,6 +17,8 @@ This project is a fully responsive UI dashboard built using HTML and CSS. It is 
 - **Media Queries**: To ensure responsiveness across different screen sizes.
 
 ##Output
+
+
 ![image](https://github.com/user-attachments/assets/0c9f20f7-9e0e-48b2-8da1-59ab739c54fb)
 
 
